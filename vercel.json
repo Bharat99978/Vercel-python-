@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "env": {
+    "TELEGRAM_BOT_TOKEN": "7228147192:AAEg1GtZGTGSr_uag1BMi2V6hwytNBBYb8o"
+  }
+}
